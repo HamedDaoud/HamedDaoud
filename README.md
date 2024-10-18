@@ -1,4 +1,4 @@
-# Hi, I'm Hamed Daoud! 👋
+# Hi, I'm Hamed Daoud!
 
 I'm a **Machine Learning Engineer** with a deep passion for building AI-driven solutions and machine learning models that solve real-world problems. While pursuing my degree in **Computer Science and Information Technology**, I realized that my true interests lay beyond traditional academia—I'm driven by hands-on learning, experimenting with code, and creating impactful projects from scratch.
 
