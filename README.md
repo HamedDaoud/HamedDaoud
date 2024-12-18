@@ -2,11 +2,11 @@
 
 I'm a **Machine Learning Engineer** passionate about building AI-driven solutions and machine learning models that solve real-world problems. While pursuing my degree in **Computer Science and Information Technology**, I realized my true interest lay beyond traditional academia—I'm driven by hands-on learning, experimentation, and creating impactful projects from scratch.
 
-## 🌟 My Journey in Tech
+##  My Journey in Tech
 
 I began coding at age 12, fueled by a fascination with creating something from nothing using a few lines of code. Initially exploring **Python** and **web development**, my interests evolved toward **AI** and **machine learning**. I've built a diverse skill set through self-learning and real-world projects, focusing on machine learning, data science, and AI.
 
-## 🛠 Core Skills
+##  Core Skills
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -20,7 +20,7 @@ I began coding at age 12, fueled by a fascination with creating something from n
 - **Machine Learning Algorithms**: Logistic regression, decision trees and tree ensembles (RandomForest and XGBoost), neural networks, k-means, reinforcement learning (Q-learning)
 - **Data Visualization**: PowerBI, Tableau
 
-## 🌱 Working Knowledge
+##  Working Knowledge
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -34,13 +34,13 @@ I began coding at age 12, fueled by a fascination with creating something from n
 - **Version Control**: Git, GitHub
 - **Model Deployment (Learning)**: Flask, Docker, AWS
 
-## 💡 What Drives Me
+##  What Drives Me
 
 - **Self-Learner**: Continuously diving into new technologies and frameworks outside of formal education, with a passion for implementing machine learning models from scratch and understanding the underlying math.
 - **Problem-Solver**: I enjoy taking on complex challenges, breaking them into manageable pieces, and solving them using AI and machine learning.
 - **Building from Scratch**: I love starting projects from the ground up, understanding every layer of the tech stack, and avoiding shortcuts.
 
-## 📚 Education
+##  Education
 
 - **B.Sc. in Computer Science and Information Technology**  
   Egypt-Japan University of Science and Technology (E-JUST)  
@@ -48,12 +48,12 @@ I began coding at age 12, fueled by a fascination with creating something from n
 
 I've prioritized hands-on experience and self-learning over traditional academia. My passion for understanding and applying machine learning concepts has driven my success, and I am constantly building projects that stretch my knowledge further.
 
-## 🌱 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - Expanding my knowledge of **MLOps** tools, including **Docker**, **Flask**, and **AWS**, to deploy and scale machine learning models.
 - Exploring **Deep Reinforcement Learning** and enhancing my understanding of advanced AI algorithms.
 
-## 📫 How to Reach Me
+##  How to Reach Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hameddaoud)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:itshamedahmed@gmail.com)
